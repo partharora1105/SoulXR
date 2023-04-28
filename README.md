@@ -12,6 +12,8 @@ Soul provides greater expression for physical real world objects by giving them 
 	<li>Click on Build and Run</li>
 </ul>
 <h2>Media</h2>
+<h2><a href="https://drive.google.com/file/d/1rl8E-GskApemM5h6bEhxvjsk_AdrfD2J/view?usp=share_link">Video</a>
+</h2><br>
 <p align="center">
   <img src="/github-images/2.png">
   <img src="/github-images/4.png">
